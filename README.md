@@ -1,6 +1,7 @@
-# Analysis code for Claessen et al. (2026)
+# Pear mendelian errors script
 
 ## Intro
+Analysis code for Claessen et al. (2026)
 This repo contains a custom-made R script to test mendelian-errors between all individual pairs. 
 
 ## Requirements
