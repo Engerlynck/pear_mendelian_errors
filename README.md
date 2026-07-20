@@ -6,7 +6,7 @@ This repo contains a custom-made R script to test mendelian-errors between all i
 
 ## Requirements
 - R version 3.6.1
-- packages: data.table, here, readxl
+- packages: data.table (v.1.14.8), here (v.1.0.2), readxl (v.1.4.3)
 
 ## Input file
 To examine parent-offspring relations, the script uses a dataset containing the 70K dataset from Montanari et al. (2019) combined with the newly genotyped individuals as described in Claessen et al. (2026). The input file is provided in the associated Zenodo repo (DOI: 10.5281/zenodo.21460568).
