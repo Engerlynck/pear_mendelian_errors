@@ -1,1 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript once published."
 
+authors:
+  - family-names: Claessen
+    given-names: Hanne
+  - family-names: Van de Poel
+    given-names: Bram
+  - family-names: Keulemans
+    given-names: Wannes
+  - family-names: De Storme
+    given-names: Nico
+
+title: "Code accompanying: Sequencing-based characterization of the S-genotype of 56 Pyrus cultivars with identification of a novel S-allele"
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Claessen
+      given-names: Hanne
+    - family-names: Van de Poel
+      given-names: Bram
+    - family-names: Keulemans
+      given-names: Wannes
+    - family-names: De Storme
+      given-names: Nico
+  title: "Sequencing-based characterization of the S-genotype of 56 Pyrus cultivars with identification of a novel S-allele"
+  journal: "Scientia Horticulturae"
+  year: TBC
+  volume: TBC
+  issue: TBC
+  doi: TBC
