@@ -16,4 +16,4 @@ The script has as output a matrix containing the pairwise mendelian-errors betwe
 
 ## References
 1. Montanari, S., Bianco, L., Allen, B. J., Martínez-García, P. J., Bassil, N. V., Postman, J., Knäbel, M., Kitson, B., Deng, C. H., Chagné, D., Crepeau, M. W., Langley, C. H., Evans, K., Dhingra, A., Troggio, M., & Neale, D. B. (2019). Development of a highly efficient AxiomTM 70 K SNP array for Pyrus and evaluation for high-density mapping and germplasm characterization. BMC Genomics, 20(1), 1–18. https://doi.org/10.1186/s12864-019-5712-3
-2. Claessen et al. (2026) - (in press)
+2. Claessen H., Van de Poel B., Keulemans W., Nico De Storme (2026) Sequencing-based characterization of the S-genotype of 56 Pyrus cultivars with identification of a novel S-allele. Scientia Horticulturae, 366(115088), https://doi.org/10.1016/j.scienta.2026.115088.
